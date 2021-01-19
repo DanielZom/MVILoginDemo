@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVILoginDemo</string>
+    <string name="login_title">Welcome to MVI demo!</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="name">name</string>
+    <string name="error">Something went wrong!</string>
+    <string name="loading">Loading...</string>
+    <string name="welcome">Welcome [0]!</string>
+</resources>
